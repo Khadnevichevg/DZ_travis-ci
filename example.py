@@ -13,5 +13,4 @@ def subtract(a, b):
 
 # Uncomment the function below in step 5
 def test_subtract():
-    assert subtract(2, 3) == -1
-
+    assert subtract(2, 3) == 6
